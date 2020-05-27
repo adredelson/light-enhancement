@@ -3,5 +3,5 @@ an implementation of a low-light image enhancement network based on [https://arx
 
 
 # Examples
-![](Input/1.bmp) ![](Output/out1.bmp)
-![](Input/2015_06248.jpg) ![](Output/out2015_06248.jpg)
+![](Input/1.bmp)![](output/out1.bmp)
+![](Input/2015_06248.jpg) ![](output/out2015_06248.jpg)
